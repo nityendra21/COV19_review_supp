@@ -1,6 +1,6 @@
 # COV19_review_supp
 ## Data used for creating figures for "Current prospects of translational research in COVID-19" submitted in IJTM. 
-Figures 1: Data retrieved from https://ourworldindata.org/coronavirus, published in *Nature Human Behavior* available at: https://doi.org/10.1038/s41562-021-01122-8, displays the number of confirmed cases worldwide.
+Figure 1: Data retrieved from https://ourworldindata.org/coronavirus, published in *Nature Human Behavior* available at: https://doi.org/10.1038/s41562-021-01122-8, displays the number of confirmed cases worldwide.
 ![Figure_1](https://user-images.githubusercontent.com/85573898/218058407-d8b5ee93-31ff-48be-a89d-f8399757eb94.png)
 
 Figure 2 retrieved from CDC's COVID Data Tracker dashboard: https://covid.cdc.gov/covid-data-tracker/#variants-genomic-surveillance, displays the dominance of newer, emerging variants in the US population.
