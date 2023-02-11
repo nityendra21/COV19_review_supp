@@ -1,6 +1,7 @@
 # COV19_review_supp
 ### Data used for figures for "Current prospects of translational research in COVID-19" submitted in IJTM.
-### Authors: Nityendra Shukla*, Preeti Agarwal, and Jitendra Narayan* (*contributed equally).
+### Authors: Nityendra Shukla*, Preeti Agarwal, and Jitendra Narayan* <br>
+#### *contributed equally.
 
 <hr>
 
