@@ -1,8 +1,7 @@
 # COV19_review_supp
 ### Data used for figures for "Current prospects of translational research in COVID-19" submitted in IJTM.
-### Authors: Nityendra Shukla*, Preeti Agarwal, and Jitendra Narayan* <br>
-#### *contributed equally.
-
+### Authors: Nityendra Shukla, Preeti Agarwal, and Jitendra Narayan* <br>
+#### Corresponding author.
 <hr>
 
 Figure 1: Data retrieved from https://github.com/owid/covid-19-data/, published in *Nature Human Behavior* available at: https://doi.org/10.1038/s41562-021-01122-8, displays the number of confirmed cases worldwide.
